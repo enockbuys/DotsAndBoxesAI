@@ -1,0 +1,12 @@
+grid_size = 5
+cell_size = 60
+dot_radius = 5
+margin = 50
+line_width = 2
+screen_color = (255, 255, 255)
+dot_color = (0, 0, 0)
+line_color = (0, 0, 255)
+box_color = (200, 200, 255)
+player_color = (255, 0, 0)
+ai_color = (0, 150, 0)
+ai_delay = 2000
